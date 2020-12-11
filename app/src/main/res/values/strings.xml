@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Candidates</string>
+    <string name="network_error_title">Your connection seems sleeping</string>
+    <string name="network_error_desc">Please check your network settings</string>
+</resources>
